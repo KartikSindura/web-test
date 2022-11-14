@@ -40,7 +40,6 @@ function Discord() {
 function GitHub() {
   return (
     <a
-      target="_blank"
       href='https://Github.com/KartikSindura/'
       className={styles.icons}
     >

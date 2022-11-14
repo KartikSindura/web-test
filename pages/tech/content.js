@@ -67,7 +67,7 @@ export default function Exp(props) {
         Languages and Frameworks
       </h1>
       <h3>
-        (Languages and frameworks I'm familiar with right now)
+        (Languages and frameworks Im familiar with right now)
       </h3>
       {exps.map((el, ind) => (
         <Box key={ind} {...el} />
